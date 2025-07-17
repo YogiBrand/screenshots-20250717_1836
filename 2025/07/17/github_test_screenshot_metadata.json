@@ -1,0 +1,11 @@
+{
+  "name": "Test GitHub Upload",
+  "description": "Testing GitHub integration",
+  "website": null,
+  "tags": "test, integration, github",
+  "date": "2025-07-17T18:36:22.112206",
+  "category": "test",
+  "confidence": 0.9,
+  "detected_text": null,
+  "ui_elements": []
+}
